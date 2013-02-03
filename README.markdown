@@ -6,6 +6,8 @@
 
 Join in at `#haskell-refactorer` on freenode.
 
+Note: the active development branch is currently ghc-api
+
 ### Running test suite
 
 To run the test suite do:
